@@ -78,3 +78,7 @@
 /home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/SmartSchoolLMS.pdb
 /home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/SmartSchoolLMS.genruntimeconfig.cache
 /home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/ref/SmartSchoolLMS.dll
+/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/bin/Debug/net9.0/package-lock.json
+/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/bin/Debug/net9.0/package.json
+/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/wukrfppjj8-s2nrpejjgi.gz
+/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/hzq887v07s-89n8s6fmqj.gz

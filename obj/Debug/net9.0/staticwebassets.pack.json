@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets/app.css"
     },
     {
+      "Id": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/output.css",
+      "PackagePath": "staticwebassets/css/output.css"
+    },
+    {
       "Id": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HUyr9TW1f0NySYIgEGRNWYmT5x2ASxgDiIZ03N+40VA=",
+  "Hash": "PgVbXtaVR83ggabZO6naqNWnSLALyFlc3IibgL4YOHo=",
   "Source": "SmartSchoolLMS",
   "BasePath": "_content/SmartSchoolLMS",
   "Mode": "Default",
@@ -521,6 +521,27 @@
       "OriginalItemSpec": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
+      "Identity": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/hzq887v07s-89n8s6fmqj.gz",
+      "SourceId": "SmartSchoolLMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/SmartSchoolLMS",
+      "RelativePath": "css/output#[.{fingerprint=89n8s6fmqj}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/output.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9abjll5fk3",
+      "Integrity": "H4fXBGGDmavhDSt1hvS5o/USaLoJBxGK4Lc54T6uUYg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/output.css"
+    },
+    {
       "Identity": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/im80t0n563-j5mq2jizvt.gz",
       "SourceId": "SmartSchoolLMS",
       "SourceType": "Discovered",
@@ -941,6 +962,27 @@
       "OriginalItemSpec": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
+      "Identity": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/wukrfppjj8-s2nrpejjgi.gz",
+      "SourceId": "SmartSchoolLMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/SmartSchoolLMS",
+      "RelativePath": "css/app#[.{fingerprint=s2nrpejjgi}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0nxwv3ryxs",
+      "Integrity": "tPJBFMqrHbDs5aPlfLAYSxd8iTZUElEeDpTztI80Lcg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/app.css"
+    },
+    {
       "Identity": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/xe33vmte0f-uh93b75pwm.gz",
       "SourceId": "SmartSchoolLMS",
       "SourceType": "Computed",
@@ -1065,6 +1107,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/app.css"
+    },
+    {
+      "Identity": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/app.css",
+      "SourceId": "SmartSchoolLMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/",
+      "BasePath": "_content/SmartSchoolLMS",
+      "RelativePath": "css/app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s2nrpejjgi",
+      "Integrity": "lE5uEsAGemdng2p4rWxAlbgp+Wa0TzO8lc/vFAGrPBA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/app.css"
+    },
+    {
+      "Identity": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/output.css",
+      "SourceId": "SmartSchoolLMS",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/",
+      "BasePath": "_content/SmartSchoolLMS",
+      "RelativePath": "css/output#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "89n8s6fmqj",
+      "Integrity": "vAsF3T50nPEZvkRCZiytFvkse+fo5Od4QOuAn/0iufI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/output.css"
     },
     {
       "Identity": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/favicon.png",
@@ -2308,6 +2392,602 @@
         {
           "Name": "integrity",
           "Value": "sha256-8+1dYSuhTutfe56zjHZK6SK1wEsepShRgLXl56MzJcs="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/wukrfppjj8-s2nrpejjgi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.023255813953"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tPJBFMqrHbDs5aPlfLAYSxd8iTZUElEeDpTztI80Lcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:30:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lE5uEsAGemdng2p4rWxAlbgp+Wa0TzO8lc/vFAGrPBA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lE5uEsAGemdng2p4rWxAlbgp+Wa0TzO8lc/vFAGrPBA="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lE5uEsAGemdng2p4rWxAlbgp+Wa0TzO8lc/vFAGrPBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:30:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lE5uEsAGemdng2p4rWxAlbgp+Wa0TzO8lc/vFAGrPBA="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/wukrfppjj8-s2nrpejjgi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tPJBFMqrHbDs5aPlfLAYSxd8iTZUElEeDpTztI80Lcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:30:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tPJBFMqrHbDs5aPlfLAYSxd8iTZUElEeDpTztI80Lcg="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.s2nrpejjgi.css",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/wukrfppjj8-s2nrpejjgi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.023255813953"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tPJBFMqrHbDs5aPlfLAYSxd8iTZUElEeDpTztI80Lcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:30:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lE5uEsAGemdng2p4rWxAlbgp+Wa0TzO8lc/vFAGrPBA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s2nrpejjgi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lE5uEsAGemdng2p4rWxAlbgp+Wa0TzO8lc/vFAGrPBA="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.s2nrpejjgi.css",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lE5uEsAGemdng2p4rWxAlbgp+Wa0TzO8lc/vFAGrPBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:30:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s2nrpejjgi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lE5uEsAGemdng2p4rWxAlbgp+Wa0TzO8lc/vFAGrPBA="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.s2nrpejjgi.css.gz",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/wukrfppjj8-s2nrpejjgi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tPJBFMqrHbDs5aPlfLAYSxd8iTZUElEeDpTztI80Lcg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:30:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s2nrpejjgi"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tPJBFMqrHbDs5aPlfLAYSxd8iTZUElEeDpTztI80Lcg="
+        }
+      ]
+    },
+    {
+      "Route": "css/output.89n8s6fmqj.css",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/hzq887v07s-89n8s6fmqj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000215796288"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4633"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H4fXBGGDmavhDSt1hvS5o/USaLoJBxGK4Lc54T6uUYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vAsF3T50nPEZvkRCZiytFvkse+fo5Od4QOuAn/0iufI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "89n8s6fmqj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/output.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vAsF3T50nPEZvkRCZiytFvkse+fo5Od4QOuAn/0iufI="
+        }
+      ]
+    },
+    {
+      "Route": "css/output.89n8s6fmqj.css",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/output.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vAsF3T50nPEZvkRCZiytFvkse+fo5Od4QOuAn/0iufI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "89n8s6fmqj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/output.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vAsF3T50nPEZvkRCZiytFvkse+fo5Od4QOuAn/0iufI="
+        }
+      ]
+    },
+    {
+      "Route": "css/output.89n8s6fmqj.css.gz",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/hzq887v07s-89n8s6fmqj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H4fXBGGDmavhDSt1hvS5o/USaLoJBxGK4Lc54T6uUYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "89n8s6fmqj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/output.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H4fXBGGDmavhDSt1hvS5o/USaLoJBxGK4Lc54T6uUYg="
+        }
+      ]
+    },
+    {
+      "Route": "css/output.css",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/hzq887v07s-89n8s6fmqj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000215796288"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4633"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H4fXBGGDmavhDSt1hvS5o/USaLoJBxGK4Lc54T6uUYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vAsF3T50nPEZvkRCZiytFvkse+fo5Od4QOuAn/0iufI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vAsF3T50nPEZvkRCZiytFvkse+fo5Od4QOuAn/0iufI="
+        }
+      ]
+    },
+    {
+      "Route": "css/output.css",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/wwwroot/css/output.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23679"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vAsF3T50nPEZvkRCZiytFvkse+fo5Od4QOuAn/0iufI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vAsF3T50nPEZvkRCZiytFvkse+fo5Od4QOuAn/0iufI="
+        }
+      ]
+    },
+    {
+      "Route": "css/output.css.gz",
+      "AssetFile": "/home/aklade-bismark-marco/CSharpMasterClass/SmartSchoolLMS/obj/Debug/net9.0/compressed/hzq887v07s-89n8s6fmqj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4633"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H4fXBGGDmavhDSt1hvS5o/USaLoJBxGK4Lc54T6uUYg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Aug 2026 01:52:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H4fXBGGDmavhDSt1hvS5o/USaLoJBxGK4Lc54T6uUYg="
         }
       ]
     },

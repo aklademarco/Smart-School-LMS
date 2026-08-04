@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartSchoolLMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5d3ef62710707c0c299cdfd415351a75a77e3c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1933ddf1fc1f4cbf2f28f2b105d7f5edf31b5b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartSchoolLMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartSchoolLMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
